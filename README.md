@@ -18,7 +18,7 @@ This repository contains an Excel file with formatted data, analysis, and visual
 ![Formatted Excel](https://github.com/Vanshika3114/Capstoneproject/blob/main/image_2024-02-01_excel.png)
 *Screenshot showing the formatted Excel sheet.*
 
-![Pivot Table](https://github.com/Vanshika3114/Capstoneproject/blob/main/image_2024-02-01_13-36-31.png)
+![Pivot Table](https://github.com/Vanshika3114/Capstoneproject/blob/main/image_2024-02-01_18-56-04.png)
 *Screenshot displaying a pivot table created during analysis.*
 
 
