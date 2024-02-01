@@ -16,7 +16,8 @@ This repository contains an Excel file with formatted data, analysis, and visual
 
 ## Screenshots
 ![Formatted Excel](screenshots/formatted_excel.png)
-![Pivot Table](screenshots/pivot_table.png)
+![Pivot Table](https://github.com/Vanshika3114/Capstoneproject/blob/main/image_2024-02-01_13-36-31.png)
+https://github.com/Vanshika3114/Capstoneproject/blob/main/image_2024-02-01_13-36-31.png
 
 ## Tools Used
 - Microsoft Excel
